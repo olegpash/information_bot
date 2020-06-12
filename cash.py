@@ -127,5 +127,4 @@ while True:
     time.sleep(60*60*12)
     start('stop')
     time.sleep(60*60*12)
-    start('start')
-    time.sleep(60*60*12)
+
